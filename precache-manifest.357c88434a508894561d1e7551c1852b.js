@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b209dfa8aec3c86173e73194322a1e7",
+    "revision": "7d4ccb15eaa9fe497078c25d927c508a",
     "url": "/react-astrology/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-astrology/static/js/2.a4e4f76f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9cf6ba2f8b7dd81aa6d2",
-    "url": "/react-astrology/static/js/main.ad02fe3e.chunk.js"
+    "revision": "947eafe3413a2d871d1d",
+    "url": "/react-astrology/static/js/main.5dd9a1d3.chunk.js"
   },
   {
     "revision": "c94c378a754b772fb10c",
