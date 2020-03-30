@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-astrology/precache-manifest.208aee9043ed20bbf1c75c2adc93a995.js"
+  "/react-astrology/precache-manifest.dd2d397ec4365a243483b7ec5fd79675.js"
 );
 
 self.addEventListener('message', (event) => {

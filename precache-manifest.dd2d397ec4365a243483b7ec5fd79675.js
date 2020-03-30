@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3ad54f48f52d0cefbcbb99cf7897968",
+    "revision": "7b209dfa8aec3c86173e73194322a1e7",
     "url": "/react-astrology/index.html"
   },
   {
