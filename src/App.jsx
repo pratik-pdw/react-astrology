@@ -70,15 +70,15 @@ export const App = () => {
         <div className="col-sm-10 col-md-10 col-lg-6">
           <div className="mt-5 card shadow-sm ">
             <div className="card-header d-flex justify-content-between align-items-center">
-              <List day={state.day} onListChange={handleOnListChange} />
-              <Day onDayChange={handleOnDayChange} />
+              <List value={state.sunsign} onListChange={handleOnListChange} />
+              <Day day={state.day} onDayChange={handleOnDayChange} />
             </div>
             <div className="card-body">
               {(state.sunsign === null || state.day === null) && <Welcome />}
               {state.showSpinner && <Spinner />}
               {state.showHoroscope && <Horoscope
-                  onHandleCloseClick={handleCloseClick}
-                  horoscope={{ ...state }} />}
+                onHandleCloseClick={handleCloseClick}
+                horoscope={{ ...state }} />}
             </div>
           </div>
         </div>
